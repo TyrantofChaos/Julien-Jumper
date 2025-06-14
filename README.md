@@ -1,3 +1,12 @@
+This game is called Julien Jumper.
+This game was a school project and development was halted in July of 2024.
+
+Author's:
+Douglas Strange (Git Junky/Team Lead)
+Liam Hans (Direct X 11 and Flecs)
+Shawn Newlin (Display and Text)
+Eyon Norman (Asset Manager)
+Kayla (Generalist)
 
 Controls:   
 Left Arrow/Left on Left Joystick = Strafe Left  
